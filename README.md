@@ -1,8 +1,8 @@
-*** Pandas:-***
+### Pandas
 #  Pandas is an open-source library mainly used for --> working with relational or labeled data 
-#  fast 
-#  high-performance,
-#  productive capabilities. 
+fast 
+high-performance,
+productive capabilities. 
 
 #  Pandas provides functionalities for 
 #  analyzing, cleaning, exploring, and manipulating data efficiently.
